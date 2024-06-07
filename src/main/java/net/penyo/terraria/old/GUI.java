@@ -24,6 +24,7 @@ import java.awt.event.WindowEvent;
  * @author Penyo
  * @see GUI
  */
+@Deprecated
 public class GUI {
     JFrame frame = new JFrame("泰拉瑞亚有色标签生成器");
     Panel op = new Panel(new FlowLayout());

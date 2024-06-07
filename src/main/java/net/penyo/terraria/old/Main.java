@@ -12,6 +12,7 @@ package net.penyo.terraria.old;
  *
  * @author Penyo
  */
+@Deprecated
 public class Main {
     public static void main(String[] arg) {
         new GUI();
